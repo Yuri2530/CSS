@@ -1,0 +1,23 @@
+body{
+    background-color: wheat;
+}
+
+
+h1{
+    color:saddlebrown;
+    text-align: center;
+    
+}
+
+.div-imagen2{
+   
+    display: inline-block;
+    margin: 50px 50px 50px 50px;
+    width: 250px;
+    height: 250px;
+    
+}
+li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: saddlebrown;
+}
